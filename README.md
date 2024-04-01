@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gideonag" alt="gideonag" /></a> </p>
 
-- 🔭 I’m currently working on [mern-estate](https://github.com/GideonAg/mern-estate)
+- 🔭 I’m currently working on [firstJobApp](https://github.com/GideonAg/firstJobApp)
 
 - 💬 Ask me about **java, spring boot, node**
 
